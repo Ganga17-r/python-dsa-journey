@@ -1,0 +1,15 @@
+DAY 8 - SECOND LARGEST (Concept)
+
+Today I learned:
+
+1. Finding the largest is not enough to find the second largest.
+
+2. One condition is not enough.
+
+3. We need two conditions:
+   - Check if the current element is the new largest.
+   - Otherwise, check if it should become the second largest.
+
+4. I understood why some arrays make the basic logic fail.
+
+5. I still need to practice the final logic until I can write it confidently.
