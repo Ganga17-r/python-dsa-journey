@@ -1,0 +1,8 @@
+DAY 9 - Arrays
+
+Today I learned:
+
+1. Improved my understanding of the Second Largest problem.
+2. Learned why different test cases require different logic.
+3. Started solving the "Move Zeros to End" array problem.
+4. Practiced thinking about problems before writing code.
