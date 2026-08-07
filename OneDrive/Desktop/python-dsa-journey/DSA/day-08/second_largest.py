@@ -1,4 +1,4 @@
-arr = [8, 15, 2, 19, 5]
+arr = [8, 15, 2, 19, 5, 16]
 
 largest = arr[0]
 second_largest = arr[0]
