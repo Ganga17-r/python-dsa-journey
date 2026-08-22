@@ -4,4 +4,4 @@ arr.append(0)
 for i in range(5, 2,-1):
      arr[i+1]=arr[i]
 arr[3]=7
-print(arr)
+print(arr) 
