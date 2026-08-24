@@ -6,5 +6,5 @@ index=-1
 for i in range(len(arr)):
     if arr[i]==12:
         index=i
-        break
+        break #break: stops at first match, first occurrence gets stored
 print(index)
