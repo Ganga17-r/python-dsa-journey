@@ -6,3 +6,5 @@ for i in range(len(numbers)):
         continue
     total=total+numbers[i]
 print(total)
+print("😂"*10)
+
