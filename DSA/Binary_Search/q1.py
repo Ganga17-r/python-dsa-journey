@@ -7,5 +7,5 @@ low = 0
 high = len(arr) - 1
 mid = (low + high) // 2
 if arr[mid] < target:
-    low = mid + 1
+    low = mid + 15
     while low <= high:
