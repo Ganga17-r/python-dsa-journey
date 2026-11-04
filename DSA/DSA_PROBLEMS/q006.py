@@ -18,3 +18,4 @@ def find_smallest(nums):
 print(find_smallest([4, 9, 2, 7]))
 print(find_smallest([-5,-2,-9]))
 print(find_smallest([6]))
+                                                          
