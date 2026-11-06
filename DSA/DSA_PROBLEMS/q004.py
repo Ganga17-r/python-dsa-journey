@@ -6,7 +6,7 @@ sum_list([]) → 0'''
 def sum_list(nums):
     total = 0
     for num in nums:
-        total += num
+        total =total+ num
     return total
 print(sum_list([1,2,3,4]))
 print(sum_list([5]))
