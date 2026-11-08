@@ -21,3 +21,4 @@
 
 ## Next
 - Fix the average function name, then q010
+- Fixed my GitHub connection problem: restart laptop and phone, then reconnect
