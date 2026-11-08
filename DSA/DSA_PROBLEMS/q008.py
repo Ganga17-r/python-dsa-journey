@@ -10,14 +10,13 @@ def sum_list(nums):
      for num in nums:
         total =total+ num
      return total
-def average_value(nums):
-    average=0
+def average(nums):
+    
     if len(nums) == 0:
         return 0        
     else:
-        average = sum_list(nums)/len(nums)
-        return average
-print(average_value([2, 4, 6]))
-print(average_value([5]) )
-print(average_value([]) )
-   
+        result = sum_list(nums)/len(nums)
+        return result
+print(average([2, 4, 6]))
+print(average([5]) )
+print(average([]))
