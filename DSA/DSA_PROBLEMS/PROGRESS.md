@@ -13,6 +13,7 @@
 - Bug found: wrong starting value of `second` hid the bug, and I fixed it with None
 - q010 second_smallest (same idea as q009, signs flipped)
 - Fixed the average function name and variable
+-q011-A bad pair means we can say False at once. But “True” needs every pair checked.
 
 ## Learned
 - return delivers a value, the condition decides True or False
