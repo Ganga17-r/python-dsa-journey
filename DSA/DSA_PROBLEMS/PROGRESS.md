@@ -23,3 +23,12 @@
 ## Next
 - Fix the average function name, then q010
 - Fixed my GitHub connection problem: restart laptop and phone, then reconnect
+## DSA Topic Tracker
+- [ ] Arrays
+- [ ] Strings
+- [ ] Searching
+- [ ] Sorting
+- [ ] Hashing (counting)
+- [ ] Stack and Queue
+- [ ] Linked list
+- [ ] Recursion

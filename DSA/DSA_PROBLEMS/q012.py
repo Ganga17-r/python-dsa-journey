@@ -2,10 +2,10 @@
 neighbouring numbers are equal, 
 otherwise False.
 
-has_equal_neighbours([1, 2, 2, 5]) → True
-has_equal_neighbours([1, 2, 3]) → False
+has_equal_neighbours([1, 2, 2, 5])
+has_equal_neighbours([1, 2, 3]) 
 has_equal_neighbours([7]) → False
-has_equal_neighbours([1, 2, 1, 2]) → False 
+has_equal_neighbours([1, 2, 1, 2]) 
 (tricky: the numbers repeat, but they are not neighbours)'''
 def has_equal_neighbours(nums):
     for i in range(len(nums)-1):
