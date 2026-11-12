@@ -17,7 +17,7 @@
 - q013 reverse_list: swapping with a, b = b, a; right = len(nums) - 1 - i; loop only len(nums) // 2 times
 - Learned: = works out the right side first, then puts values in the left side
 -q014-The order of lines matters. Count only after the work is done.
--q015a,q015b-Insert shifts items to the right. Delete shifts items to the left.
+-q015a,q015b-- q014 move_zeros, q015 insert_at and delete_at: insert shifts items right, pop shifts items left; check pos before pop.Insert shifts items to the right. Delete shifts items to the left.
 
 ## Learned
 - return delivers a value, the condition decides True or False

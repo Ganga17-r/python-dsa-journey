@@ -19,8 +19,12 @@ delete_at([1, 2, 3, 4], 1) → [1, 3, 4]
 delete_at([5], 0) → []
 delete_at([7, 8, 9], 2) → [7, 8] (the last item)'''
 def delete_at(nums,pos):
-    nums.pop(pos)
-    return nums
+     if pos < 0 or pos >= len(nums):
+        return nums
+     nums.pop(pos)
+     return nums
 print(delete_at([1, 2, 3, 4], 1))
 print(delete_at([5], 0))
 print(delete_at([7, 8, 9], 2))
+print(delete_at([1, 2, 3], 5))
+print(delete_at([1, 2, 3], -1))
