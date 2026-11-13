@@ -18,6 +18,7 @@
 - Learned: = works out the right side first, then puts values in the left side
 -q014-The order of lines matters. Count only after the work is done.
 -q015a,q015b-- q014 move_zeros, q015 insert_at and delete_at: insert shifts items right, pop shifts items left; check pos before pop.Insert shifts items to the right. Delete shifts items to the left.
+-q016 index_of_max: use > (not >=) so the first largest stays.
 
 ## Learned
 - return delivers a value, the condition decides True or False
@@ -28,7 +29,7 @@
 - Fix the average function name, then q010
 - Fixed my GitHub connection problem: restart laptop and phone, then reconnect
 ## DSA Topic Tracker
-- [ ] Arrays
+- [x] Arrays
 - [ ] Strings
 - [ ] Searching
 - [ ] Sorting

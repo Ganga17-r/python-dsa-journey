@@ -14,7 +14,8 @@ def index_of_max(nums):
     for i in range(len(nums)):
         if nums[i]>largest:
             largest=nums[i]
-    return largest
+            max_index=i
+    return max_index
 print(index_of_max([4, 9, 2, 7]))
 print(index_of_max([-5, -2, -9]))
 print(index_of_max([6]))
