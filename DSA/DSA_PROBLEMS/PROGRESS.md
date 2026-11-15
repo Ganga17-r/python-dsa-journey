@@ -19,6 +19,8 @@
 -q014-The order of lines matters. Count only after the work is done.
 -q015a,q015b-- q014 move_zeros, q015 insert_at and delete_at: insert shifts items right, pop shifts items left; check pos before pop.Insert shifts items to the right. Delete shifts items to the left.
 -q016 index_of_max: use > (not >=) so the first largest stays.
+-q017-- reverse_string: strings cannot be changed in place, so build a new string with result = ch + result
+- Python: slicing [start:stop], upper(), lower(), + joins stringsa string cannot be changed in place
 
 ## Learned
 - return delivers a value, the condition decides True or False
