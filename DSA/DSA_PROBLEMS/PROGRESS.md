@@ -21,6 +21,8 @@
 -q016 index_of_max: use > (not >=) so the first largest stays.
 -q017-- reverse_string: strings cannot be changed in place, so build a new string with result = ch + result
 - Python: slicing [start:stop], upper(), lower(), + joins stringsa string cannot be changed in place
+-- q018 is_palindrome: reverse the string, then compare with ==; capital and small letters are different
+- Learned: s[::-1] is a shortcut for reversing, but I wrote the long way first
 
 ## Learned
 - return delivers a value, the condition decides True or False
