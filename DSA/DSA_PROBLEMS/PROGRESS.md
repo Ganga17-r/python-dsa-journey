@@ -23,6 +23,8 @@
 - Python: slicing [start:stop], upper(), lower(), + joins stringsa string cannot be changed in place
 -- q018 is_palindrome: reverse the string, then compare with ==; capital and small letters are different
 - Learned: s[::-1] is a shortcut for reversing, but I wrote the long way first
+- q019 count_vowels: loop through the string, use "in" to check each character, count grows by 1
+- Learned: "a" in "cat" gives True or False
 
 ## Learned
 - return delivers a value, the condition decides True or False
