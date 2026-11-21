@@ -9,11 +9,12 @@ def count_vowels(s):
     count = 0
     vowels = "aeiou"
     for char in s:
-        if char in vowels:
+        if char.lower() in vowels:
             count += 1
     return count
 print(count_vowels("python"))
 print(count_vowels("education"))
 print(count_vowels("rhythm"))
 print(count_vowels(""))
+print(count_vowels("Apple"))
 
