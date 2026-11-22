@@ -26,7 +26,8 @@
 - q019 count_vowels: loop through the string, use "in" to check each character, count grows by 1
 - Learned: "a" in "cat" gives True or False
 - q020 count_digits: same counting pattern, new check with isdigit()
-
+-- q021 first_digit_position: return position inside the loop when found, return -1 after the loop when not found
+- [x] Strings (basics): reverse, palindrome, count_vowels, count_digits, first_digit_position
 ## Learned
 - return delivers a value, the condition decides True or False
 - test the tricky cases (equal numbers, empty list)
@@ -37,8 +38,7 @@
 - Fixed my GitHub connection problem: restart laptop and phone, then reconnect
 ## DSA Topic Tracker
 - [x] Arrays
-- [ ] Strings
-- [ ] Searching
+- [x] Strings (basics): reverse, palindrome, count_vowels, count_digits, first_digit_position
 - [ ] Sorting
 - [ ] Hashing (counting)
 - [ ] Stack and Queue
