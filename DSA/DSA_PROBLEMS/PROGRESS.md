@@ -25,6 +25,7 @@
 - Learned: s[::-1] is a shortcut for reversing, but I wrote the long way first
 - q019 count_vowels: loop through the string, use "in" to check each character, count grows by 1
 - Learned: "a" in "cat" gives True or False
+- q020 count_digits: same counting pattern, new check with isdigit()
 
 ## Learned
 - return delivers a value, the condition decides True or False
