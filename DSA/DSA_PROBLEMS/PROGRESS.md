@@ -28,6 +28,7 @@
 - q020 count_digits: same counting pattern, new check with isdigit()
 -- q021 first_digit_position: return position inside the loop when found, return -1 after the loop when not found
 - [x] Strings (basics): reverse, palindrome, count_vowels, count_digits, first_digit_position
+- q022 linear_search: check items one by one, return position inside the loop when found, return -1 after the loop. position goes up after each check.
 ## Learned
 - return delivers a value, the condition decides True or False
 - test the tricky cases (equal numbers, empty list)
